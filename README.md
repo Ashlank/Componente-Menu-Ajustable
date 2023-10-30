@@ -13,6 +13,8 @@ Componente que genera un menú ajustable al viewport
 - Lógica ajustable para cambiar el ancho de los items, margin y padding del menú, incluso la separación entre los items.
 - Dinámico al cambiar el viewport del dispositivo
 
+https://github.com/Ashlank/Componente-Menu-Ajustable/assets/88116420/24ef8d20-24c7-4379-98f2-43ade9d933a1
+
 ### Deploy
 
 Puede verse el deploy [acá](https://componente-menu-ajustable.vercel.app/)
